@@ -1,0 +1,356 @@
+[
+  {
+    "id": "opp-001",
+    "title": "Junior Frontend Developer Intern",
+    "company": "Northstar Studio",
+    "domain": "Frontend",
+    "level": "Beginner",
+    "location": "Remote \u00b7 APAC",
+    "remote": true,
+    "type": "Internship",
+    "date": "2026-10-29",
+    "description": "Work alongside a small product team to turn thoughtful interface designs into accessible, responsive web experiences.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "keywords": [
+      "responsive",
+      "accessibility",
+      "web development",
+      "internship"
+    ]
+  },
+  {
+    "id": "opp-002",
+    "title": "UI Engineering Project Assistant",
+    "company": "Morrow Labs",
+    "domain": "UI/UX",
+    "level": "Intermediate",
+    "location": "Bangkok, Thailand",
+    "remote": false,
+    "type": "Project",
+    "date": "2026-10-27",
+    "description": "Help refine component patterns and prototype practical improvements for a student-focused learning platform.",
+    "skills": [
+      "Figma",
+      "CSS",
+      "Prototyping"
+    ],
+    "keywords": [
+      "design systems",
+      "components",
+      "user interface"
+    ]
+  },
+  {
+    "id": "opp-003",
+    "title": "Data Visualisation Intern",
+    "company": "Fieldwork Analytics",
+    "domain": "Data",
+    "level": "Intermediate",
+    "location": "Remote \u00b7 Worldwide",
+    "remote": true,
+    "type": "Internship",
+    "date": "2026-10-25",
+    "description": "Make complex information easier to understand through clear charts, dashboards and careful visual storytelling.",
+    "skills": [
+      "JavaScript",
+      "Charts",
+      "Data"
+    ],
+    "keywords": [
+      "dashboard",
+      "visualisation",
+      "analytics",
+      "internship"
+    ]
+  },
+  {
+    "id": "opp-004",
+    "title": "Community Content Volunteer",
+    "company": "Build Together",
+    "domain": "Marketing",
+    "level": "Beginner",
+    "location": "Remote \u00b7 Flexible",
+    "remote": true,
+    "type": "Volunteer",
+    "date": "2026-10-22",
+    "description": "Create useful updates and short-form content for a growing community of early-career builders.",
+    "skills": [
+      "Writing",
+      "Canva",
+      "Social media"
+    ],
+    "keywords": [
+      "content",
+      "community",
+      "communications"
+    ]
+  },
+  {
+    "id": "opp-005",
+    "title": "React Website Contributor",
+    "company": "Civic Byte",
+    "domain": "Frontend",
+    "level": "Intermediate",
+    "location": "Remote \u00b7 APAC",
+    "remote": true,
+    "type": "Project",
+    "date": "2026-10-20",
+    "description": "Contribute small, well-scoped features to an open-source directory that helps people find local services.",
+    "skills": [
+      "React",
+      "Git",
+      "CSS"
+    ],
+    "keywords": [
+      "open source",
+      "frontend",
+      "web development"
+    ]
+  },
+  {
+    "id": "opp-006",
+    "title": "Product Design Trainee",
+    "company": "Common Ground",
+    "domain": "UI/UX",
+    "level": "Beginner",
+    "location": "Singapore \u00b7 Hybrid",
+    "remote": false,
+    "type": "Internship",
+    "date": "2026-10-18",
+    "description": "Learn how a product team moves from user questions to wireframes, prototypes and tested interface decisions.",
+    "skills": [
+      "Figma",
+      "Wireframing",
+      "Research"
+    ],
+    "keywords": [
+      "product design",
+      "user research",
+      "prototype"
+    ]
+  },
+  {
+    "id": "opp-007",
+    "title": "Python Automation Assistant",
+    "company": "Loopline Systems",
+    "domain": "Backend",
+    "level": "Intermediate",
+    "location": "Remote \u00b7 Worldwide",
+    "remote": true,
+    "type": "Part-time",
+    "date": "2026-10-16",
+    "description": "Build and document small scripts that reduce repetitive work for an operations team.",
+    "skills": [
+      "Python",
+      "APIs",
+      "Git"
+    ],
+    "keywords": [
+      "automation",
+      "scripting",
+      "backend"
+    ]
+  },
+  {
+    "id": "opp-008",
+    "title": "Digital Campaign Intern",
+    "company": "Sunday Assembly",
+    "domain": "Marketing",
+    "level": "Beginner",
+    "location": "Bangkok, Thailand",
+    "remote": false,
+    "type": "Internship",
+    "date": "2026-10-14",
+    "description": "Support campaign planning, audience research and simple performance reports for a creative studio.",
+    "skills": [
+      "Research",
+      "Content",
+      "Analytics"
+    ],
+    "keywords": [
+      "digital marketing",
+      "campaign",
+      "social media"
+    ]
+  },
+  {
+    "id": "opp-009",
+    "title": "QA Testing Project Member",
+    "company": "Patchwork Tech",
+    "domain": "Quality Assurance",
+    "level": "Beginner",
+    "location": "Remote \u00b7 APAC",
+    "remote": true,
+    "type": "Project",
+    "date": "2026-10-12",
+    "description": "Explore a web app from a user's point of view, write clear bug reports and help verify fixes.",
+    "skills": [
+      "Testing",
+      "Documentation",
+      "Browser tools"
+    ],
+    "keywords": [
+      "QA",
+      "quality assurance",
+      "bug testing"
+    ]
+  },
+  {
+    "id": "opp-010",
+    "title": "Junior Data Researcher",
+    "company": "Signal & Soil",
+    "domain": "Data",
+    "level": "Beginner",
+    "location": "Remote \u00b7 Flexible",
+    "remote": true,
+    "type": "Part-time",
+    "date": "2026-10-10",
+    "description": "Collect and organise public information, check source quality and prepare concise research summaries.",
+    "skills": [
+      "Excel",
+      "Research",
+      "Data cleaning"
+    ],
+    "keywords": [
+      "research",
+      "spreadsheets",
+      "analysis"
+    ]
+  },
+  {
+    "id": "opp-011",
+    "title": "Accessibility Review Volunteer",
+    "company": "Open Door Digital",
+    "domain": "Quality Assurance",
+    "level": "Intermediate",
+    "location": "Remote \u00b7 Worldwide",
+    "remote": true,
+    "type": "Volunteer",
+    "date": "2026-10-08",
+    "description": "Review web pages for keyboard, contrast and content barriers, then suggest improvements the team can act on.",
+    "skills": [
+      "Accessibility",
+      "HTML",
+      "Testing"
+    ],
+    "keywords": [
+      "WCAG",
+      "inclusive design",
+      "audit"
+    ]
+  },
+  {
+    "id": "opp-012",
+    "title": "API Integration Trainee",
+    "company": "Harborstack",
+    "domain": "Backend",
+    "level": "Advanced",
+    "location": "Kuala Lumpur \u00b7 Hybrid",
+    "remote": false,
+    "type": "Internship",
+    "date": "2026-10-06",
+    "description": "Assist with connecting services, checking API responses and writing notes for integration workflows.",
+    "skills": [
+      "REST APIs",
+      "JavaScript",
+      "JSON"
+    ],
+    "keywords": [
+      "integration",
+      "backend",
+      "HTTP"
+    ]
+  },
+  {
+    "id": "opp-013",
+    "title": "Visual Design Assistant",
+    "company": "Paper Kite Creative",
+    "domain": "UI/UX",
+    "level": "Beginner",
+    "location": "Remote \u00b7 APAC",
+    "remote": true,
+    "type": "Part-time",
+    "date": "2026-10-04",
+    "description": "Prepare digital assets and explore layout directions for small campaigns and web pages.",
+    "skills": [
+      "Figma",
+      "Typography",
+      "Layout"
+    ],
+    "keywords": [
+      "graphic design",
+      "visual design",
+      "creative"
+    ]
+  },
+  {
+    "id": "opp-014",
+    "title": "Web Performance Mini Project",
+    "company": "Greenlight Collective",
+    "domain": "Frontend",
+    "level": "Advanced",
+    "location": "Remote \u00b7 Worldwide",
+    "remote": true,
+    "type": "Project",
+    "date": "2026-10-02",
+    "description": "Investigate page performance, identify bottlenecks and document practical improvements for a content site.",
+    "skills": [
+      "JavaScript",
+      "Lighthouse",
+      "Performance"
+    ],
+    "keywords": [
+      "optimisation",
+      "Core Web Vitals",
+      "frontend"
+    ]
+  },
+  {
+    "id": "opp-015",
+    "title": "Student Outreach Coordinator",
+    "company": "Next Chapter Network",
+    "domain": "Marketing",
+    "level": "Intermediate",
+    "location": "Bangkok \u00b7 Hybrid",
+    "remote": false,
+    "type": "Volunteer",
+    "date": "2026-09-29",
+    "description": "Connect student groups with workshops and opportunities, keeping communication organised and welcoming.",
+    "skills": [
+      "Communication",
+      "Planning",
+      "Writing"
+    ],
+    "keywords": [
+      "outreach",
+      "events",
+      "student community"
+    ]
+  },
+  {
+    "id": "opp-016",
+    "title": "No-Code Product Prototype",
+    "company": "Tiny Experiments",
+    "domain": "UI/UX",
+    "level": "Intermediate",
+    "location": "Remote \u00b7 Flexible",
+    "remote": true,
+    "type": "Project",
+    "date": "2026-09-26",
+    "description": "Shape an early product idea into a clickable prototype and explain the thinking behind key screens.",
+    "skills": [
+      "Figma",
+      "Prototyping",
+      "User flows"
+    ],
+    "keywords": [
+      "no-code",
+      "prototype",
+      "product thinking"
+    ]
+  }
+]
